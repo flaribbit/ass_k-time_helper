@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1539402568 source:d:\工程\c语言代码\win32gui\assktimehelper\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1539405740 d:\工程\c语言代码\win32gui\assktimehelper\resource.h
+
+1539402025 source:d:\工程\c语言代码\win32gui\assktimehelper\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
